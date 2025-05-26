@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, table, dl, dd {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	font-size: 16px;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+ul, ol {
+	list-style: none;
+}
+img {
+	max-width: 100%;
+	vertical-align: top;
+	border: none;
+}
+cite, code, dfn, del, em, ins, label, q, span, strong {
+	display: inline-block;
+}
+
+/* default setting */
+* {
+	font-family: "Pretendard", "Roboto", "Noto Sans KR", sans-serif;
+	word-break: keep-all;
+	white-space: -moz-pre-wrap;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
+	box-sizing: border-box;
+}
+body {
+	line-height: 1.5;
+	letter-spacing: -0.03em;
+	color: #111;
+	-webkit-text-size-adjust: none;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 700;
+}
+a {
+	color: #111;
+}
+p {
+	font-weight: 300;
+}
+:focus-visible {
+	outline: 2px solid #aaa;
+}
