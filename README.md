@@ -118,10 +118,10 @@ function initMenu(){
 }
 ```
 <div class="image" display="flex" gap="15px" >
-<image width= "50%" src="mdimg/tab.png"></image>
-<image width= "50%" src="mdimg/mobile1.png"></image>
-<image width= "50%" src="mdimg/mobile2.png"></image>
-<image width= "50%" src="mdimg/mobile3.png"></image>
+<image width= "24%" src="mdimg/tab.png"></image>
+<image width= "24%" src="mdimg/mobile1.png"></image>
+<image width= "24%" src="mdimg/mobile2.png"></image>
+<image width= "24%" src="mdimg/mobile3.png"></image>
 </div>
 
 <br>
